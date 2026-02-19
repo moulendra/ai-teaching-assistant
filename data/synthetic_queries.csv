@@ -1,0 +1,501 @@
+query,intent,topic,difficulty
+Revise Neural Networks,Revision,Neural Networks,Intermediate
+Quick revision of Optimization,Revision,Optimization,Intermediate
+I don't understand Backpropagation,Explanation,Backpropagation,Advanced
+Explain Optimization in detail,Explanation,Optimization,Advanced
+Give example of Gradient Descent,Example,Gradient Descent,Intermediate
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+Why does Optimization work this way?,Doubt clarification,Optimization,Advanced
+Explain Neural Networks in detail,Explanation,Neural Networks,Advanced
+Quick revision of Backpropagation,Revision,Backpropagation,Advanced
+Quick revision of Gradient Descent,Revision,Gradient Descent,Beginner
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Advanced
+Show example for Gradient Descent,Example,Gradient Descent,Intermediate
+Revise Gradient Descent,Revision,Gradient Descent,Intermediate
+Quick revision of Backpropagation,Revision,Backpropagation,Intermediate
+Revise Backpropagation,Revision,Backpropagation,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Beginner
+Revise Gradient Descent,Revision,Gradient Descent,Intermediate
+Quick revision of Optimization,Revision,Optimization,Beginner
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Intermediate
+I don't understand Backpropagation,Explanation,Backpropagation,Beginner
+Can you explain Neural Networks?,Explanation,Neural Networks,Beginner
+Show example for Backpropagation,Example,Backpropagation,Intermediate
+Explain Backpropagation in detail,Explanation,Backpropagation,Advanced
+Explain Neural Networks in detail,Explanation,Neural Networks,Beginner
+Revise Backpropagation,Revision,Backpropagation,Intermediate
+Can you explain Neural Networks?,Explanation,Neural Networks,Beginner
+Quick revision of Optimization,Revision,Optimization,Beginner
+Give example of Backpropagation,Example,Backpropagation,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Advanced
+Give example of Optimization,Example,Optimization,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Advanced
+Can you explain Optimization?,Explanation,Optimization,Beginner
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Intermediate
+I don't understand Optimization,Explanation,Optimization,Intermediate
+I don't understand Neural Networks,Explanation,Neural Networks,Advanced
+Give example of Optimization,Example,Optimization,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Advanced
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Beginner
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Intermediate
+I don't understand Optimization,Explanation,Optimization,Advanced
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Advanced
+Can you explain Backpropagation?,Explanation,Backpropagation,Beginner
+Revise Optimization,Revision,Optimization,Beginner
+Revise Backpropagation,Revision,Backpropagation,Beginner
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Advanced
+Show example for Gradient Descent,Example,Gradient Descent,Beginner
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+Can you explain Backpropagation?,Explanation,Backpropagation,Advanced
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Intermediate
+Give example of Optimization,Example,Optimization,Advanced
+Why does Optimization work this way?,Doubt clarification,Optimization,Intermediate
+I don't understand Neural Networks,Explanation,Neural Networks,Beginner
+Revise Optimization,Revision,Optimization,Advanced
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Intermediate
+Give example of Backpropagation,Example,Backpropagation,Beginner
+Can you explain Optimization?,Explanation,Optimization,Intermediate
+I don't understand Backpropagation,Explanation,Backpropagation,Beginner
+Can you explain Backpropagation?,Explanation,Backpropagation,Advanced
+Explain Optimization in detail,Explanation,Optimization,Advanced
+Explain Neural Networks in detail,Explanation,Neural Networks,Beginner
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Intermediate
+Can you explain Optimization?,Explanation,Optimization,Advanced
+Show example for Neural Networks,Example,Neural Networks,Advanced
+Explain Optimization in detail,Explanation,Optimization,Advanced
+Show example for Backpropagation,Example,Backpropagation,Intermediate
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Intermediate
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Beginner
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Intermediate
+Show example for Optimization,Example,Optimization,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Intermediate
+I don't understand Neural Networks,Explanation,Neural Networks,Intermediate
+Give example of Neural Networks,Example,Neural Networks,Beginner
+Can you explain Backpropagation?,Explanation,Backpropagation,Advanced
+Give example of Backpropagation,Example,Backpropagation,Beginner
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+Quick revision of Neural Networks,Revision,Neural Networks,Advanced
+Give example of Optimization,Example,Optimization,Beginner
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Intermediate
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Advanced
+Can you explain Optimization?,Explanation,Optimization,Intermediate
+Show example for Optimization,Example,Optimization,Intermediate
+Show example for Optimization,Example,Optimization,Intermediate
+Can you explain Backpropagation?,Explanation,Backpropagation,Beginner
+Quick revision of Optimization,Revision,Optimization,Beginner
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Advanced
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+Why does Optimization work this way?,Doubt clarification,Optimization,Intermediate
+Revise Optimization,Revision,Optimization,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Beginner
+Explain Backpropagation in detail,Explanation,Backpropagation,Beginner
+Give example of Gradient Descent,Example,Gradient Descent,Intermediate
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+I am confused about Optimization,Doubt clarification,Optimization,Advanced
+I am confused about Optimization,Doubt clarification,Optimization,Beginner
+I am confused about Optimization,Doubt clarification,Optimization,Intermediate
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Advanced
+Can you explain Neural Networks?,Explanation,Neural Networks,Intermediate
+Give example of Gradient Descent,Example,Gradient Descent,Advanced
+Revise Neural Networks,Revision,Neural Networks,Beginner
+Show example for Optimization,Example,Optimization,Advanced
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Beginner
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Advanced
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Intermediate
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Beginner
+Can you explain Optimization?,Explanation,Optimization,Advanced
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+I don't understand Neural Networks,Explanation,Neural Networks,Advanced
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Beginner
+I don't understand Neural Networks,Explanation,Neural Networks,Beginner
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+Quick revision of Optimization,Revision,Optimization,Intermediate
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Beginner
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Intermediate
+Revise Neural Networks,Revision,Neural Networks,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Show example for Neural Networks,Example,Neural Networks,Advanced
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Beginner
+Show example for Backpropagation,Example,Backpropagation,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Beginner
+Give example of Neural Networks,Example,Neural Networks,Advanced
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Beginner
+Explain Neural Networks in detail,Explanation,Neural Networks,Advanced
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Intermediate
+Show example for Optimization,Example,Optimization,Advanced
+Revise Backpropagation,Revision,Backpropagation,Beginner
+Revise Optimization,Revision,Optimization,Advanced
+Quick revision of Gradient Descent,Revision,Gradient Descent,Beginner
+Quick revision of Optimization,Revision,Optimization,Advanced
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Intermediate
+Revise Neural Networks,Revision,Neural Networks,Beginner
+I don't understand Backpropagation,Explanation,Backpropagation,Beginner
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Revise Gradient Descent,Revision,Gradient Descent,Intermediate
+Show example for Neural Networks,Example,Neural Networks,Advanced
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Advanced
+Explain Backpropagation in detail,Explanation,Backpropagation,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+Explain Backpropagation in detail,Explanation,Backpropagation,Intermediate
+Can you explain Backpropagation?,Explanation,Backpropagation,Advanced
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Beginner
+Revise Neural Networks,Revision,Neural Networks,Intermediate
+Give example of Neural Networks,Example,Neural Networks,Advanced
+Why does Optimization work this way?,Doubt clarification,Optimization,Intermediate
+Can you explain Neural Networks?,Explanation,Neural Networks,Advanced
+Explain Backpropagation in detail,Explanation,Backpropagation,Advanced
+I don't understand Gradient Descent,Explanation,Gradient Descent,Intermediate
+Show example for Neural Networks,Example,Neural Networks,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Advanced
+Can you explain Neural Networks?,Explanation,Neural Networks,Advanced
+Revise Gradient Descent,Revision,Gradient Descent,Intermediate
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Show example for Optimization,Example,Optimization,Advanced
+Revise Backpropagation,Revision,Backpropagation,Advanced
+I don't understand Neural Networks,Explanation,Neural Networks,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Show example for Optimization,Example,Optimization,Intermediate
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Advanced
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Intermediate
+Quick revision of Gradient Descent,Revision,Gradient Descent,Beginner
+Quick revision of Optimization,Revision,Optimization,Intermediate
+I don't understand Gradient Descent,Explanation,Gradient Descent,Beginner
+Can you explain Backpropagation?,Explanation,Backpropagation,Beginner
+Explain Optimization in detail,Explanation,Optimization,Beginner
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Beginner
+Quick revision of Gradient Descent,Revision,Gradient Descent,Advanced
+Give example of Backpropagation,Example,Backpropagation,Beginner
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Advanced
+Revise Neural Networks,Revision,Neural Networks,Intermediate
+Can you explain Backpropagation?,Explanation,Backpropagation,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Advanced
+Can you explain Optimization?,Explanation,Optimization,Beginner
+Quick revision of Optimization,Revision,Optimization,Beginner
+Quick revision of Gradient Descent,Revision,Gradient Descent,Advanced
+Quick revision of Optimization,Revision,Optimization,Beginner
+Quick revision of Gradient Descent,Revision,Gradient Descent,Beginner
+Give example of Gradient Descent,Example,Gradient Descent,Intermediate
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Beginner
+Give example of Gradient Descent,Example,Gradient Descent,Intermediate
+Revise Gradient Descent,Revision,Gradient Descent,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Beginner
+Give example of Backpropagation,Example,Backpropagation,Advanced
+Quick revision of Gradient Descent,Revision,Gradient Descent,Advanced
+I am confused about Optimization,Doubt clarification,Optimization,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Advanced
+Show example for Backpropagation,Example,Backpropagation,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Advanced
+Quick revision of Gradient Descent,Revision,Gradient Descent,Intermediate
+I don't understand Gradient Descent,Explanation,Gradient Descent,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Advanced
+Quick revision of Gradient Descent,Revision,Gradient Descent,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Intermediate
+Show example for Backpropagation,Example,Backpropagation,Beginner
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Intermediate
+Show example for Optimization,Example,Optimization,Intermediate
+Quick revision of Gradient Descent,Revision,Gradient Descent,Intermediate
+Show example for Neural Networks,Example,Neural Networks,Advanced
+Quick revision of Backpropagation,Revision,Backpropagation,Advanced
+Give example of Optimization,Example,Optimization,Intermediate
+Revise Optimization,Revision,Optimization,Beginner
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Advanced
+Give example of Gradient Descent,Example,Gradient Descent,Beginner
+Quick revision of Optimization,Revision,Optimization,Intermediate
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Beginner
+Explain Backpropagation in detail,Explanation,Backpropagation,Advanced
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Intermediate
+Show example for Optimization,Example,Optimization,Beginner
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Intermediate
+Can you explain Neural Networks?,Explanation,Neural Networks,Intermediate
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Intermediate
+Revise Neural Networks,Revision,Neural Networks,Advanced
+I don't understand Neural Networks,Explanation,Neural Networks,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Beginner
+Revise Optimization,Revision,Optimization,Advanced
+Show example for Gradient Descent,Example,Gradient Descent,Intermediate
+Give example of Optimization,Example,Optimization,Advanced
+Quick revision of Neural Networks,Revision,Neural Networks,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Advanced
+Revise Optimization,Revision,Optimization,Intermediate
+Can you explain Neural Networks?,Explanation,Neural Networks,Intermediate
+Quick revision of Neural Networks,Revision,Neural Networks,Beginner
+I don't understand Optimization,Explanation,Optimization,Intermediate
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Give example of Neural Networks,Example,Neural Networks,Intermediate
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Advanced
+Why does Optimization work this way?,Doubt clarification,Optimization,Advanced
+Can you explain Backpropagation?,Explanation,Backpropagation,Advanced
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Beginner
+Show example for Neural Networks,Example,Neural Networks,Beginner
+Can you explain Neural Networks?,Explanation,Neural Networks,Beginner
+I don't understand Backpropagation,Explanation,Backpropagation,Beginner
+Give example of Optimization,Example,Optimization,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Explain Optimization in detail,Explanation,Optimization,Advanced
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Beginner
+Give example of Backpropagation,Example,Backpropagation,Advanced
+Revise Backpropagation,Revision,Backpropagation,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Why does Optimization work this way?,Doubt clarification,Optimization,Beginner
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Advanced
+Revise Neural Networks,Revision,Neural Networks,Beginner
+Give example of Gradient Descent,Example,Gradient Descent,Beginner
+Can you explain Optimization?,Explanation,Optimization,Intermediate
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Beginner
+Can you explain Optimization?,Explanation,Optimization,Advanced
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+Revise Backpropagation,Revision,Backpropagation,Advanced
+Explain Optimization in detail,Explanation,Optimization,Advanced
+Revise Neural Networks,Revision,Neural Networks,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+Quick revision of Neural Networks,Revision,Neural Networks,Beginner
+Give example of Neural Networks,Example,Neural Networks,Advanced
+Give example of Neural Networks,Example,Neural Networks,Beginner
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Intermediate
+Give example of Optimization,Example,Optimization,Intermediate
+Why does Optimization work this way?,Doubt clarification,Optimization,Beginner
+Give example of Neural Networks,Example,Neural Networks,Advanced
+Give example of Neural Networks,Example,Neural Networks,Advanced
+Quick revision of Optimization,Revision,Optimization,Intermediate
+Quick revision of Neural Networks,Revision,Neural Networks,Beginner
+I don't understand Optimization,Explanation,Optimization,Beginner
+Can you explain Neural Networks?,Explanation,Neural Networks,Beginner
+Give example of Backpropagation,Example,Backpropagation,Advanced
+I don't understand Optimization,Explanation,Optimization,Beginner
+Quick revision of Neural Networks,Revision,Neural Networks,Intermediate
+I am confused about Optimization,Doubt clarification,Optimization,Beginner
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Intermediate
+Revise Backpropagation,Revision,Backpropagation,Advanced
+I don't understand Optimization,Explanation,Optimization,Intermediate
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Show example for Backpropagation,Example,Backpropagation,Advanced
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+Show example for Neural Networks,Example,Neural Networks,Intermediate
+Revise Backpropagation,Revision,Backpropagation,Beginner
+Revise Gradient Descent,Revision,Gradient Descent,Beginner
+Show example for Gradient Descent,Example,Gradient Descent,Beginner
+Quick revision of Optimization,Revision,Optimization,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Intermediate
+Revise Optimization,Revision,Optimization,Advanced
+Revise Gradient Descent,Revision,Gradient Descent,Advanced
+Revise Gradient Descent,Revision,Gradient Descent,Advanced
+Revise Backpropagation,Revision,Backpropagation,Advanced
+Quick revision of Neural Networks,Revision,Neural Networks,Beginner
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Intermediate
+Explain Backpropagation in detail,Explanation,Backpropagation,Intermediate
+Revise Gradient Descent,Revision,Gradient Descent,Intermediate
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Advanced
+Revise Backpropagation,Revision,Backpropagation,Advanced
+Quick revision of Neural Networks,Revision,Neural Networks,Advanced
+Revise Backpropagation,Revision,Backpropagation,Intermediate
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Revise Optimization,Revision,Optimization,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Beginner
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Advanced
+I don't understand Backpropagation,Explanation,Backpropagation,Intermediate
+I don't understand Gradient Descent,Explanation,Gradient Descent,Intermediate
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Intermediate
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Advanced
+I don't understand Neural Networks,Explanation,Neural Networks,Advanced
+Revise Neural Networks,Revision,Neural Networks,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Beginner
+Explain Optimization in detail,Explanation,Optimization,Intermediate
+Give example of Optimization,Example,Optimization,Beginner
+Can you explain Optimization?,Explanation,Optimization,Advanced
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Beginner
+I don't understand Backpropagation,Explanation,Backpropagation,Intermediate
+Give example of Backpropagation,Example,Backpropagation,Beginner
+Explain Optimization in detail,Explanation,Optimization,Intermediate
+Why does Optimization work this way?,Doubt clarification,Optimization,Intermediate
+Give example of Optimization,Example,Optimization,Beginner
+Can you explain Optimization?,Explanation,Optimization,Intermediate
+Show example for Backpropagation,Example,Backpropagation,Advanced
+Quick revision of Gradient Descent,Revision,Gradient Descent,Intermediate
+Show example for Backpropagation,Example,Backpropagation,Advanced
+Quick revision of Neural Networks,Revision,Neural Networks,Intermediate
+Show example for Backpropagation,Example,Backpropagation,Advanced
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Intermediate
+Revise Gradient Descent,Revision,Gradient Descent,Beginner
+Can you explain Backpropagation?,Explanation,Backpropagation,Advanced
+Quick revision of Gradient Descent,Revision,Gradient Descent,Intermediate
+Explain Optimization in detail,Explanation,Optimization,Advanced
+Give example of Backpropagation,Example,Backpropagation,Beginner
+Explain Neural Networks in detail,Explanation,Neural Networks,Beginner
+Revise Backpropagation,Revision,Backpropagation,Intermediate
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Intermediate
+Revise Gradient Descent,Revision,Gradient Descent,Beginner
+Give example of Optimization,Example,Optimization,Advanced
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Intermediate
+Revise Optimization,Revision,Optimization,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Quick revision of Neural Networks,Revision,Neural Networks,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+Show example for Neural Networks,Example,Neural Networks,Beginner
+Show example for Gradient Descent,Example,Gradient Descent,Intermediate
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+Why does Optimization work this way?,Doubt clarification,Optimization,Beginner
+Why does Optimization work this way?,Doubt clarification,Optimization,Beginner
+Revise Neural Networks,Revision,Neural Networks,Advanced
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Advanced
+Give example of Backpropagation,Example,Backpropagation,Advanced
+Why does Optimization work this way?,Doubt clarification,Optimization,Beginner
+Quick revision of Neural Networks,Revision,Neural Networks,Intermediate
+Give example of Neural Networks,Example,Neural Networks,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Intermediate
+Show example for Optimization,Example,Optimization,Advanced
+Show example for Backpropagation,Example,Backpropagation,Intermediate
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Beginner
+Explain Backpropagation in detail,Explanation,Backpropagation,Advanced
+Show example for Neural Networks,Example,Neural Networks,Advanced
+I am confused about Optimization,Doubt clarification,Optimization,Advanced
+I don't understand Optimization,Explanation,Optimization,Beginner
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+I don't understand Backpropagation,Explanation,Backpropagation,Advanced
+I am confused about Optimization,Doubt clarification,Optimization,Advanced
+Give example of Neural Networks,Example,Neural Networks,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Advanced
+Quick revision of Optimization,Revision,Optimization,Intermediate
+Can you explain Optimization?,Explanation,Optimization,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Advanced
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Beginner
+Give example of Optimization,Example,Optimization,Advanced
+Give example of Neural Networks,Example,Neural Networks,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Beginner
+I am confused about Optimization,Doubt clarification,Optimization,Advanced
+I don't understand Backpropagation,Explanation,Backpropagation,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Beginner
+Explain Backpropagation in detail,Explanation,Backpropagation,Advanced
+Give example of Gradient Descent,Example,Gradient Descent,Beginner
+I don't understand Backpropagation,Explanation,Backpropagation,Intermediate
+Give example of Optimization,Example,Optimization,Beginner
+Show example for Backpropagation,Example,Backpropagation,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Beginner
+Revise Backpropagation,Revision,Backpropagation,Intermediate
+Revise Gradient Descent,Revision,Gradient Descent,Advanced
+Can you explain Optimization?,Explanation,Optimization,Intermediate
+Quick revision of Gradient Descent,Revision,Gradient Descent,Beginner
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Intermediate
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+Quick revision of Gradient Descent,Revision,Gradient Descent,Intermediate
+Show example for Neural Networks,Example,Neural Networks,Advanced
+Revise Optimization,Revision,Optimization,Intermediate
+Give example of Backpropagation,Example,Backpropagation,Advanced
+Quick revision of Neural Networks,Revision,Neural Networks,Advanced
+Give example of Gradient Descent,Example,Gradient Descent,Beginner
+I don't understand Backpropagation,Explanation,Backpropagation,Advanced
+Revise Gradient Descent,Revision,Gradient Descent,Beginner
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Intermediate
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Advanced
+I don't understand Backpropagation,Explanation,Backpropagation,Advanced
+Explain Gradient Descent in detail,Explanation,Gradient Descent,Beginner
+Revise Optimization,Revision,Optimization,Beginner
+I am confused about Optimization,Doubt clarification,Optimization,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Advanced
+Quick revision of Neural Networks,Revision,Neural Networks,Beginner
+Quick revision of Gradient Descent,Revision,Gradient Descent,Intermediate
+Give example of Gradient Descent,Example,Gradient Descent,Intermediate
+Quick revision of Optimization,Revision,Optimization,Advanced
+Show example for Backpropagation,Example,Backpropagation,Beginner
+Revise Neural Networks,Revision,Neural Networks,Beginner
+Revise Gradient Descent,Revision,Gradient Descent,Advanced
+Show example for Optimization,Example,Optimization,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Revise Gradient Descent,Revision,Gradient Descent,Intermediate
+Quick revision of Gradient Descent,Revision,Gradient Descent,Intermediate
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Advanced
+Quick revision of Optimization,Revision,Optimization,Intermediate
+Can you explain Optimization?,Explanation,Optimization,Advanced
+Show example for Optimization,Example,Optimization,Advanced
+Give example of Optimization,Example,Optimization,Beginner
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Revise Optimization,Revision,Optimization,Beginner
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+Show example for Gradient Descent,Example,Gradient Descent,Intermediate
+Can you explain Neural Networks?,Explanation,Neural Networks,Beginner
+Revise Backpropagation,Revision,Backpropagation,Beginner
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Advanced
+Give example of Gradient Descent,Example,Gradient Descent,Beginner
+Give example of Backpropagation,Example,Backpropagation,Intermediate
+Show example for Backpropagation,Example,Backpropagation,Intermediate
+I don't understand Optimization,Explanation,Optimization,Intermediate
+Can you explain Backpropagation?,Explanation,Backpropagation,Intermediate
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Beginner
+I don't understand Backpropagation,Explanation,Backpropagation,Advanced
+Explain Backpropagation in detail,Explanation,Backpropagation,Intermediate
+Explain Optimization in detail,Explanation,Optimization,Intermediate
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Intermediate
+Quick revision of Gradient Descent,Revision,Gradient Descent,Advanced
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Intermediate
+Revise Neural Networks,Revision,Neural Networks,Intermediate
+I don't understand Neural Networks,Explanation,Neural Networks,Intermediate
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Advanced
+I don't understand Neural Networks,Explanation,Neural Networks,Advanced
+Why does Optimization work this way?,Doubt clarification,Optimization,Advanced
+Show example for Neural Networks,Example,Neural Networks,Intermediate
+Why does Backpropagation work this way?,Doubt clarification,Backpropagation,Intermediate
+Explain Optimization in detail,Explanation,Optimization,Beginner
+Show example for Neural Networks,Example,Neural Networks,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Advanced
+Why does Gradient Descent work this way?,Doubt clarification,Gradient Descent,Beginner
+Explain Optimization in detail,Explanation,Optimization,Advanced
+Quick revision of Optimization,Revision,Optimization,Advanced
+Show example for Optimization,Example,Optimization,Beginner
+I don't understand Backpropagation,Explanation,Backpropagation,Beginner
+Why does Neural Networks work this way?,Doubt clarification,Neural Networks,Intermediate
+Quick revision of Optimization,Revision,Optimization,Intermediate
+I don't understand Optimization,Explanation,Optimization,Beginner
+I am confused about Optimization,Doubt clarification,Optimization,Intermediate
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Beginner
+Explain Backpropagation in detail,Explanation,Backpropagation,Intermediate
+Show example for Backpropagation,Example,Backpropagation,Beginner
+Show example for Neural Networks,Example,Neural Networks,Intermediate
+I don't understand Neural Networks,Explanation,Neural Networks,Advanced
+Revise Optimization,Revision,Optimization,Intermediate
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Quick revision of Gradient Descent,Revision,Gradient Descent,Beginner
+Revise Neural Networks,Revision,Neural Networks,Beginner
+Revise Neural Networks,Revision,Neural Networks,Advanced
+Explain Backpropagation in detail,Explanation,Backpropagation,Advanced
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Intermediate
+Revise Backpropagation,Revision,Backpropagation,Intermediate
+Can you explain Neural Networks?,Explanation,Neural Networks,Advanced
+I am confused about Gradient Descent,Doubt clarification,Gradient Descent,Advanced
+Give example of Optimization,Example,Optimization,Beginner
+I don't understand Optimization,Explanation,Optimization,Advanced
+Revise Backpropagation,Revision,Backpropagation,Intermediate
+I don't understand Neural Networks,Explanation,Neural Networks,Beginner
+Show example for Gradient Descent,Example,Gradient Descent,Beginner
+Give example of Gradient Descent,Example,Gradient Descent,Beginner
+Show example for Backpropagation,Example,Backpropagation,Intermediate
+I am confused about Neural Networks,Doubt clarification,Neural Networks,Beginner
+Show example for Neural Networks,Example,Neural Networks,Advanced
+Show example for Backpropagation,Example,Backpropagation,Advanced
+Quick revision of Neural Networks,Revision,Neural Networks,Intermediate
+I don't understand Neural Networks,Explanation,Neural Networks,Intermediate
+Quick revision of Gradient Descent,Revision,Gradient Descent,Advanced
+Revise Backpropagation,Revision,Backpropagation,Beginner
+Explain Optimization in detail,Explanation,Optimization,Beginner
+Give example of Backpropagation,Example,Backpropagation,Beginner
+Quick revision of Backpropagation,Revision,Backpropagation,Advanced
+Can you explain Optimization?,Explanation,Optimization,Intermediate
+Explain Backpropagation in detail,Explanation,Backpropagation,Advanced
+Show example for Neural Networks,Example,Neural Networks,Advanced
+Revise Neural Networks,Revision,Neural Networks,Beginner
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Advanced
+I don't understand Backpropagation,Explanation,Backpropagation,Intermediate
+Can you explain Gradient Descent?,Explanation,Gradient Descent,Beginner
+I am confused about Optimization,Doubt clarification,Optimization,Advanced
+Give example of Backpropagation,Example,Backpropagation,Beginner
+Show example for Backpropagation,Example,Backpropagation,Advanced
+I am confused about Backpropagation,Doubt clarification,Backpropagation,Beginner
