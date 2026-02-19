@@ -349,3 +349,9 @@ This system demonstrates a complete pipeline for:
 - Modular and scalable architecture  
 
 The design balances interpretability, ML depth, and practical personalization.
+## 🎥 Demo Video
+
+Watch the working demonstration here:
+
+[Click to Watch Demo Video](https://drive.google.com/file/d/1Y4pg43Eoj60LlVUWaKtJJU5mfI9bWZeD/view?usp=sharing)
+
